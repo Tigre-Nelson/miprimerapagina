@@ -1,4 +1,4 @@
-function showAlert () { alert('¡Hola, esta es una alerta desde JavaScript!'); }
+function showAlert () { alert('¡Tigre Nelson tu fuente de placer'); }
 
 const form = document.getElementById('myForm');
 form.addEventListener('submit', function(event) {
