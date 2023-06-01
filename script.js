@@ -1,4 +1,4 @@
-function showAlert () { alert('¡Tigre Nelson tu máquina de placer!'); }
+function showAlert () { alert('Tigre Nelson tu máquina de placer'); }
 
 const form = document.getElementById('myForm');
 form.addEventListener('submit', function(event) {
